@@ -1,2 +1,2 @@
 # linear_models
-https://github.com/niru23/
+Generalized linear models (GLMs) can be thought of as a generalization of the multiple linear regression model.
